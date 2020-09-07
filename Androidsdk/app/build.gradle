@@ -27,7 +27,7 @@ dependencies {
     implementation 'androidx.appcompat:appcompat:1.2.0'
     implementation 'androidx.constraintlayout:constraintlayout:2.0.1'
     //implementation project(path: ':common')
-    implementation 'com.github.SamiranKumar:AndroidSdkModule:0.2'
+    implementation 'com.github.SamiranKumar:AndroidSdkModule:0.3'
 
 
     implementation fileTree(dir: "libs", include: ["*.jar"])
